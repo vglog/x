@@ -1,1 +1,4 @@
-alert(1);
+function MyFunction(){
+    alert('Hello World!');
+}
+window.onload=MyFunction;
